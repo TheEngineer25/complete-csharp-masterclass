@@ -5,4 +5,8 @@
   <Folder Name="/Лекции/Раздел 1. Въведение/01. Създаване на първа програма и Hello World/Код/">
     <Project Path="Лекции/Раздел 1. Въведение/01. Създаване на първа програма и Hello World/Код/HelloWorld/HelloWorld.csproj" />
   </Folder>
+  <Folder Name="/Лекции/Раздел 1. Въведение/4. Едноредови коментари/" />
+  <Folder Name="/Лекции/Раздел 1. Въведение/4. Едноредови коментари/Код/">
+    <Project Path="Лекции/Раздел 1. Въведение/4. Едноредови коментари/Код/SingleLineComments/SingleLineComments.csproj" />
+  </Folder>
 </Solution>
