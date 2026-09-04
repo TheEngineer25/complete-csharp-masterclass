@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f473506323e05eab",
+        "id": "27c0df3e3e4dce49",
         "type": "tabs",
         "children": [
           {
-            "id": "986e7b80f8c0a828",
+            "id": "fbd9b1b8b342b28e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекции/Раздел 1. Въведение/4. Едноредови коментари/04. Едноредови коментари.md",
+                "file": "Лекции/Раздел 1. Въведение/5. Изпозлване на променливи - стрингове/05. Използване на променливи - стрингове.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04. Едноредови коментари"
+              "title": "05. Използване на променливи - стрингове"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Лекции/Раздел 1. Въведение/4. Едноредови коментари/04. Едноредови коментари.md",
+                "file": "Лекции/Раздел 1. Въведение/5. Изпозлване на променливи - стрингове/05. Използване на променливи - стрингове.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Лекции/Раздел 1. Въведение/4. Едноредови коментари/04. Едноредови коментари.md",
+                "file": "Лекции/Раздел 1. Въведение/5. Изпозлване на променливи - стрингове/05. Използване на променливи - стрингове.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Лекции/Раздел 1. Въведение/4. Едноредови коментари/04. Едноредови коментари.md",
+                "file": "Лекции/Раздел 1. Въведение/5. Изпозлване на променливи - стрингове/05. Използване на променливи - стрингове.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,20 +190,21 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "0febb46ca0a872cd",
+  "active": "fbd9b1b8b342b28e",
   "lastOpenFiles": [
     "Лекции/Раздел 1. Въведение/1. Създаване на първа програма и Hello World/01. Създаване на първа програма и Hello World.md",
+    "Лекции/Раздел 1. Въведение/5. Изпозлване на променливи - стрингове/05. Използване на променливи - стрингове.md",
+    "HelloWorld.slnx",
+    "Лекции/Раздел 1. Въведение/5. Изпозлване на променливи - стрингове/Код/UsingVariablesStrings/obj/Debug/net10.0/UsingVariablesStrings.GlobalUsings.g.cs",
+    "Лекции/Раздел 1. Въведение/5. Изпозлване на променливи - стрингове/Код/UsingVariablesStrings/obj/Debug/net10.0/UsingVariablesStrings.GeneratedMSBuildEditorConfig.editorconfig",
+    "Лекции/Раздел 1. Въведение/5. Изпозлване на променливи - стрингове/Код/UsingVariablesStrings/obj/Debug/net10.0/UsingVariablesStrings.AssemblyInfoInputs.cache",
+    "Лекции/Раздел 1. Въведение/5. Изпозлване на променливи - стрингове/Код/UsingVariablesStrings/obj/Debug/net10.0/UsingVariablesStrings.AssemblyInfo.cs",
+    "Лекции/Раздел 1. Въведение/5. Изпозлване на променливи - стрингове/Код/UsingVariablesStrings/obj/Debug/net10.0/refint",
+    "Лекции/Раздел 1. Въведение/5. Изпозлване на променливи - стрингове/Код/UsingVariablesStrings/obj/Debug/net10.0/ref",
+    "Лекции/Раздел 1. Въведение/5. Изпозлване на променливи - стрингове/Код/UsingVariablesStrings/obj/Debug/net10.0",
+    "Лекции/Раздел 1. Въведение/5. Изпозлване на променливи - стрингове/Код/UsingVariablesStrings/obj/Debug",
+    "Лекции/Раздел 1. Въведение/5. Изпозлване на променливи - стрингове/Код/UsingVariablesStrings/obj",
     "Лекции/Раздел 1. Въведение/4. Едноредови коментари/04. Едноредови коментари.md",
-    "Лекции/Раздел 1. Въведение/4. Едноредови коментари/Код/SingleLineComments/obj/Debug/net10.0/SingleLineComments.AssemblyInfo.cs",
-    "Лекции/Раздел 1. Въведение/4. Едноредови коментари/Код/SingleLineComments/obj/Debug/net10.0/SingleLineComments.AssemblyInfoInputs.cache",
-    "Лекции/Раздел 1. Въведение/4. Едноредови коментари/Код/SingleLineComments/obj/Debug/net10.0/SingleLineComments.GeneratedMSBuildEditorConfig.editorconfig",
-    "Лекции/Раздел 1. Въведение/4. Едноредови коментари/Код/SingleLineComments/obj/Debug/net10.0/SingleLineComments.GlobalUsings.g.cs",
-    "Лекции/Раздел 1. Въведение/4. Едноредови коментари/Код/SingleLineComments/obj/Debug/net10.0/refint",
-    "Лекции/Раздел 1. Въведение/4. Едноредови коментари/Код/SingleLineComments/obj/Debug/net10.0/ref",
-    "Лекции/Раздел 1. Въведение/4. Едноредови коментари/Код/SingleLineComments/obj/Debug/net10.0",
-    "Лекции/Раздел 1. Въведение/4. Едноредови коментари/Код/SingleLineComments/obj/Debug",
-    "Лекции/Раздел 1. Въведение/4. Едноредови коментари/Код/SingleLineComments/obj",
-    "Лекции/Раздел 1. Въведение/4. Едноредови коментари/Код/SingleLineComments/bin/Debug/net10.0",
     "Лекции/Раздел 1. Въведение/3. Разбиране на рамки и компилиране/03. Разбиране на рамки и компилиране.md",
     "Лекции/Раздел 1. Въведение/2. История на C#/02. История на езика.md",
     "Лекции/Раздел 1. Въведение/02. История на C#/02. История на езика.md",

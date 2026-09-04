@@ -1,6 +1,8 @@
 {
   "callouts": {
-    "custom": [],
+    "custom": [
+      "vladi-code"
+    ],
     "settings": {}
   },
   "calloutDetection": {

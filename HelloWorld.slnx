@@ -9,4 +9,8 @@
   <Folder Name="/Лекции/Раздел 1. Въведение/4. Едноредови коментари/Код/">
     <Project Path="Лекции/Раздел 1. Въведение/4. Едноредови коментари/Код/SingleLineComments/SingleLineComments.csproj" />
   </Folder>
+  <Folder Name="/Лекции/Раздел 1. Въведение/5. Изпозлване на променливи - стрингове/" />
+  <Folder Name="/Лекции/Раздел 1. Въведение/5. Изпозлване на променливи - стрингове/Код/">
+    <Project Path="Лекции/Раздел 1. Въведение/5. Изпозлване на променливи - стрингове/Код/UsingVariablesStrings/UsingVariablesStrings.csproj" />
+  </Folder>
 </Solution>
