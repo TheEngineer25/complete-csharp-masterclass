@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Лекции/" />
+  <Folder Name="/Лекции/Раздел 1. Въведение/" />
+  <Folder Name="/Лекции/Раздел 1. Въведение/01. Създаване на първа програма и Hello World/" />
+  <Folder Name="/Лекции/Раздел 1. Въведение/01. Създаване на първа програма и Hello World/Код/">
+    <Project Path="Лекции/Раздел 1. Въведение/01. Създаване на първа програма и Hello World/Код/HelloWorld/HelloWorld.csproj" />
+  </Folder>
+</Solution>
