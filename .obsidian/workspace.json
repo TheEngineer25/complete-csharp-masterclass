@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "94aea9cfad1abafe",
+        "id": "136869170e31ef6a",
         "type": "tabs",
         "children": [
           {
-            "id": "665913142c481321",
+            "id": "be458f0189e55a68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекции/Раздел 1. Въведение/6. Разбиране на потребителски вход и тип данни стринг/06. Разбиране на потребителски вход и тип данни стринг.md",
+                "file": "Лекции/Раздел 1. Въведение/7. Преглед от виското ниво на променливи и типове данни/07. Преглед от високо ниво на променливи и типове данни.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06. Разбиране на потребителски вход и тип данни стринг"
+              "title": "07. Преглед от високо ниво на променливи и типове данни"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Лекции/Раздел 1. Въведение/6. Разбиране на потребителски вход и тип данни стринг/06. Разбиране на потребителски вход и тип данни стринг.md",
+                "file": "Лекции/Раздел 1. Въведение/7. Преглед от виското ниво на променливи и типове данни/07. Преглед от високо ниво на променливи и типове данни.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Лекции/Раздел 1. Въведение/6. Разбиране на потребителски вход и тип данни стринг/06. Разбиране на потребителски вход и тип данни стринг.md",
+                "file": "Лекции/Раздел 1. Въведение/7. Преглед от виското ниво на променливи и типове данни/07. Преглед от високо ниво на променливи и типове данни.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Лекции/Раздел 1. Въведение/6. Разбиране на потребителски вход и тип данни стринг/06. Разбиране на потребителски вход и тип данни стринг.md",
+                "file": "Лекции/Раздел 1. Въведение/7. Преглед от виското ниво на променливи и типове данни/07. Преглед от високо ниво на променливи и типове данни.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,8 +190,12 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "665913142c481321",
+  "active": "0febb46ca0a872cd",
   "lastOpenFiles": [
+    "Лекции/Раздел 1. Въведение/6. Разбиране на потребителски вход и тип данни стринг/06. Разбиране на потребителски вход и тип данни стринг.md",
+    "Лекции/Раздел 1. Въведение/7. Преглед от виското ниво на променливи и типове данни/07. Преглед от високо ниво на променливи и типове данни.md",
+    "Лекции/Раздел 1. Въведение/7. Преглед от виското ниво на променливи и типове данни",
+    "Лекции/Раздел 1. Въведение/Нова папка",
     "Изображения/Pasted image 20260905150418.png",
     "Проекти/AdditionCalculator/AdditionCalculator/obj/Debug/net10.0/AdditionCalculator.csproj.FileListAbsolute.txt",
     "Проекти/AdditionCalculator/AdditionCalculator/bin/Debug/net10.0/AdditionCalculator.pdb",
@@ -201,11 +205,8 @@
     "Проекти/AdditionCalculator/AdditionCalculator/obj/Debug/net10.0/AdditionCalculator.genruntimeconfig.cache",
     "Проекти/AdditionCalculator/AdditionCalculator/bin/Debug/net10.0/AdditionCalculator.deps.json",
     "Проекти/AdditionCalculator/AdditionCalculator/bin/Debug/net10.0/AdditionCalculator.exe",
-    "Проекти/AdditionCalculator/AdditionCalculator/obj/Debug/net10.0/apphost.exe",
-    "Проекти/AdditionCalculator/AdditionCalculator/obj/Debug/net10.0/refint/AdditionCalculator.dll",
     "Изображения/9.png",
     "Лекции/Раздел 1. Въведение/5. Изпозлване на променливи - стрингове/05. Използване на променливи - стрингове.md",
-    "Лекции/Раздел 1. Въведение/6. Разбиране на потребителски вход и тип данни стринг/06. Разбиране на потребителски вход и тип данни стринг.md",
     "Изображения/8.png",
     "Изображения/7.png",
     "Изображения/6.png",
