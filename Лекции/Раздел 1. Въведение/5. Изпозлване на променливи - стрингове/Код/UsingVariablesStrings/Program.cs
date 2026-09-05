@@ -1,4 +1,3 @@
-﻿Console.WriteLine("Hello, World!");
-
-string myFriendsName;
+﻿string myFriendsName;
 myFriendsName = "Stefan";
+System.Console.WriteLine(myFriendsName);
