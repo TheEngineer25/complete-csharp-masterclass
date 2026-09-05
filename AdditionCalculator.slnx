@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Проекти/" />
+  <Folder Name="/Проекти/AdditionCalculator/">
+    <Project Path="Проекти/AdditionCalculator/AdditionCalculator/AdditionCalculator.csproj" />
+  </Folder>
+</Solution>
