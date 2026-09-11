@@ -1,4 +1,7 @@
 {
   "theme": "obsidian",
-  "cssTheme": "ITS Theme"
+  "cssTheme": "ITS Theme",
+  "baseFontSize": 22,
+  "textFontFamily": "Times New Roman",
+  "monospaceFontFamily": "Times New Roman"
 }
