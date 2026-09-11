@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Code", "Code", "{314C6247-3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "Code\HelloWorld\HelloWorld.csproj", "{45115396-1D79-4D6B-9F86-DA7C54D0BCB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "usingVariables-Strings", "Code\usingVariables-Strings\usingVariables-Strings.csproj", "{062C5E16-DF3B-4C8B-B142-63DE02D15F2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,11 +31,24 @@ Global
 		{45115396-1D79-4D6B-9F86-DA7C54D0BCB5}.Release|x64.Build.0 = Release|Any CPU
 		{45115396-1D79-4D6B-9F86-DA7C54D0BCB5}.Release|x86.ActiveCfg = Release|Any CPU
 		{45115396-1D79-4D6B-9F86-DA7C54D0BCB5}.Release|x86.Build.0 = Release|Any CPU
+		{062C5E16-DF3B-4C8B-B142-63DE02D15F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{062C5E16-DF3B-4C8B-B142-63DE02D15F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{062C5E16-DF3B-4C8B-B142-63DE02D15F2B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{062C5E16-DF3B-4C8B-B142-63DE02D15F2B}.Debug|x64.Build.0 = Debug|Any CPU
+		{062C5E16-DF3B-4C8B-B142-63DE02D15F2B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{062C5E16-DF3B-4C8B-B142-63DE02D15F2B}.Debug|x86.Build.0 = Debug|Any CPU
+		{062C5E16-DF3B-4C8B-B142-63DE02D15F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{062C5E16-DF3B-4C8B-B142-63DE02D15F2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{062C5E16-DF3B-4C8B-B142-63DE02D15F2B}.Release|x64.ActiveCfg = Release|Any CPU
+		{062C5E16-DF3B-4C8B-B142-63DE02D15F2B}.Release|x64.Build.0 = Release|Any CPU
+		{062C5E16-DF3B-4C8B-B142-63DE02D15F2B}.Release|x86.ActiveCfg = Release|Any CPU
+		{062C5E16-DF3B-4C8B-B142-63DE02D15F2B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{45115396-1D79-4D6B-9F86-DA7C54D0BCB5} = {314C6247-30EA-3492-19B6-DF847E3B326F}
+		{062C5E16-DF3B-4C8B-B142-63DE02D15F2B} = {314C6247-30EA-3492-19B6-DF847E3B326F}
 	EndGlobalSection
 EndGlobal
