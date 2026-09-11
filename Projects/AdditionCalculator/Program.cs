@@ -1,3 +1,5 @@
 ﻿Console.WriteLine("Hello, World!");
 
-Console.ReadLine();
+string userInput = Console.ReadLine();
+
+System.Console.WriteLine("You entered " + userInput);
