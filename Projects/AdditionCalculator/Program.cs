@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Enter a number:");
+﻿Console.WriteLine("Enter a whole number:");
 
 int myNumber = 0;
 
