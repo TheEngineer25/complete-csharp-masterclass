@@ -1,12 +1,12 @@
 ﻿Console.WriteLine("Enter a number:");
 
 int myNumber = 0;
-myNumber = Console.ReadLine();
+
 
 
 string userInput = Console.ReadLine();
 
-
+myNumber = int.Parse(userInput);
 
 
 
